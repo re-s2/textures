@@ -1,6 +1,8 @@
 # Library
 
-Each and every game we work on is decided by the user using the [íssues]() tab. If your desired game dont appear here we probably havent worked on it yet. Consider opening a issue if you want any game on this list.
+Each and every game we work on is decided by the user using the [issues]() tab. If your desired game dont appear here we probably havent worked on it yet. Consider opening a issue if you want any game on this list.
+
+[Search through the website]()
 
 | #  | Game Title                          | Release Year | Genre              | Status         |
 |----|-------------------------------------|--------------|--------------------|----------------|
